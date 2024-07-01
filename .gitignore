@@ -1,0 +1,9 @@
+*.o
+*.sw*
+*.mks
+tags
+/output/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
